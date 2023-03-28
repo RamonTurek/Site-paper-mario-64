@@ -17,7 +17,7 @@ body{
         margin-left: 41%;
         margin-top: 3%;
         color: rgb(224, 224, 224);
-        text-shadow: 2px 2px 1px rgb(10, 0, 146);
+        text-shadow: 2px 2px 1px #0a0092;
         
         /*box-sizing: content-box;
         border: 5px auto green;
@@ -45,22 +45,22 @@ body{
 
     .btn{
     padding: 10px 10px;
-    background: #ffff;
-    border: 1px solid #000000;
+    background: #712319
+    border: 1px solid #ffffff;
     border-radius: 10px;
     text-align: center;
     user-select: none;
     cursor: pointer;
-    font-size: 20px;
-    text-shadow: 3px 6px 3px fuchsia;
-    margin: 10px;
+    font-size: 35px;
+    text-shadow: 2px 2px 1px rgb(10, 0, 146);
+    margin: 30px;
     padding: 20px;
     color: #000000;
     display: inline-block;
     }
 
 .btn:hover{
-background: gray;
+background: #ff553f38
 
 }
 
@@ -75,6 +75,6 @@ li{
 a{
     display: inline-block;
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 
