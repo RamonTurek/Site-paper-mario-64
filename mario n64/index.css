@@ -16,7 +16,7 @@ body{
         font-size: 90%;
         margin-left: 41%;
         margin-top: 3%;
-        color: rgb(224, 224, 224);
+        color: rgb(219, 219, 219);
         text-shadow: 2px 2px 1px #0a0092;
         
         /*box-sizing: content-box;
@@ -47,7 +47,7 @@ body{
     padding: 10px 10px;
     background: #712319
     border: 1px solid #ffffff;
-    border-radius: 10px;
+    border-radius:10px;
     text-align: center;
     user-select: none;
     cursor: pointer;
