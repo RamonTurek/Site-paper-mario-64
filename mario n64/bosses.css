@@ -1,9 +1,97 @@
+@font-face {
+    font-family: fonte;
+    src: url(fonte/FOT-PopJoyStd-B.otf);
+}
+
 body{
     background-image: url(https://cutewallpaper.org/21/super-paper-mario-backgrounds/Hd-Wallpaper-Wap-Super-Paper-Mario-Mr,-Hd-Wallpapers-.jpg);
     background-attachment: fixed;   
     background-size: cover;
-    background-color: blue;
+    background-repeat: no-repeat;
+    font-family: 'fonte';
 
+}
 
+.Início{
+    font-size: 85%;
+    color: rgb(212, 212, 212);
+    text-shadow: 2px 2px 1px #380092;
+    margin-right: 50%;
+
+}
+
+.bosses{
+font-size: 120%;
+color: rgb(212, 212, 212);
+margin-top: 10%;
+margin-right: 51%;
+
+}
+
+.bowser{
+    text-shadow: 2px 2px 1px #a15e12bd;
+    
+}
+
+.img_bowser1{
+    margin-left: 65%;
+    margin-top: -23%;
+    position: absolute;
+
+}
+
+.Jr_Troopa1{
+    margin-top: 20%;
+    font-size: 75%;
+    text-shadow: 2px 2px 1px #6d482c;
+    
+}
+
+.img_jr_troopa1{
+    margin-left: 73%;
+    margin-top: -28%;
+    position: absolute;
+
+}
+
+.goomba_rei{
+    margin-top: 20%;
+    font-size: 75%;
+    text-shadow: 2px 2px 1px #962918;
+
+}
+
+.img_goomba_rei{
+    margin-left: 70%;
+    margin-top: -35%;
+    position: absolute;
+
+}
+
+.mini_bosses{
+    font-size: 75%;
+    color: rgb(212, 212, 212);
+    margin-top: 15%;
+
+}
+
+.red_goomba{
+    margin-left: 65%;
+    text-shadow: 2px 2px 1px #911c39
+
+}
+
+.blue_goomba{
+    margin-right: 70%;
+    position: absolute;
+    margin-top: -15%;
+    text-shadow: 2px 2px 1px #3064bb;
+    
+}
+
+.img_goombas{
+    margin-left: 34.5%;
+    margin-top: -15%;
+    position: absolute;
 
 }
