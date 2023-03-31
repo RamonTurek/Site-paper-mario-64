@@ -70,7 +70,7 @@ margin-right: 51%;
 
 .mini_bosses{
     font-size: 75%;
-    color: rgb(212, 212, 212);
+    color: #d4d4d4;
     margin-top: 15%;
 
 }
@@ -93,5 +93,58 @@ margin-right: 51%;
     margin-left: 34.5%;
     margin-top: -15%;
     position: absolute;
+
+}
+
+.koopa_bros{
+    font-size: 14px;
+    position: absolute;
+    text-shadow: 2px 2px 1px #946f33;
+    margin-top: 45%;
+    margin-right: 51%
+    
+}
+
+.img_koopa_bros{
+    position: absolute;
+    margin-left: 100%;
+    margin-top: -80%;
+
+}
+
+.Ninjakoopa_Vermelho{
+    color: #d4d4d4;;
+    position: absolute;
+    margin-top: 85%;
+    margin-left: 50%;
+    text-shadow: 2px 2px 1px #70231b;
+
+    
+}
+
+.img_Ninjakoopa_Vermelho{;
+    position: absolute;
+    margin-top: 85%;
+    margin-left: 13%;
+
+}
+
+#inverter {
+    transform: scaleX(-1);
+}
+
+.Black_Ninjakoopa{
+    color: #d4d4d4;;
+    position: absolute;
+    margin-top: 120%;
+    margin-right: 50%;
+    text-shadow: 2px 2px 1px #212129
+
+}
+
+.img_Black_Ninjakoopa{
+    position: absolute;
+    margin-top: 130%;
+    margin-left: 70%;
 
 }
